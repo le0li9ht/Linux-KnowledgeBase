@@ -1,5 +1,5 @@
 **IOCs:**  
-C:\Users\Public\**USOShared-1de48789-1285**\zuidrt.pdf  
+C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf  
 C:\Users\AppData\Local\temp\noway.bat  
   
 **Hashes(SHA256):**  
