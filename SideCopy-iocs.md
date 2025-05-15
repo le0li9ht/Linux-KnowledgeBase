@@ -1,6 +1,6 @@
 **IOCs:**  
 C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf  
-C:\Users\<UserName>\AppData\Local\temp\noway.bat  
+C:\Users\\<UserName>\AppData\Local\temp\noway.bat  
   
 **Hashes(SHA256):**  
 **BroaderAspect.dll:** 00e3cf6427e96ac85778219be3068c26748b0431e2024fde4911d613148f89f8  
@@ -20,3 +20,5 @@ https[:]//trade4wealth.in/admin/assets/css/Vertical-layout-design/02/ayty.ert
 https[:]//trade4wealth.in/admin/assets/css/Vertical-layout-design/01/survey.pdf(decoy)  
 https[:]//trade4wealth[.]in/admin/assets/css/default/index.php  
 
+![2025-05-15_22-48](https://github.com/user-attachments/assets/5ac8d0ec-06b2-4a16-8320-8f69b368204b)
+![2025-05-15_22-48_1](https://github.com/user-attachments/assets/1061262e-f2fb-4f2e-8016-0a8feeca9de9)
