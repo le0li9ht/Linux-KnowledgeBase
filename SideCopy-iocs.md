@@ -9,11 +9,10 @@ C:\Users\AppData\Local\temp\noway.bat
 **wincplmb:** ce98542131598b7af5d8aa546efe8c33a9762fb70bff4574227ecaed7fff8802  
   
 **Registry:**  
-Registry Key: HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run  
-Value Name: Edgre  
-Value Type: REG_SZ  
-Value: C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf"  
-  
+**Registry Key:** HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run  
+**Value Name:** Edgre  
+**Value Type:** REG_SZ  
+**Value:** REG ADD "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "Edgre" /t REG_SZ /F /D "cmd /C start C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf"  
 **URLs:**  
 https[:]//trade4wealth.in/admin/assets/js/mapeal.sh  
 https[:]//trade4wealth.in/admin/assets/css/default/sysinte.hta  
