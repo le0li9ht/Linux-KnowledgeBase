@@ -13,7 +13,7 @@ C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf
 **Registry Key:** HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run  
 **Value Name:** Edgre  
 **Value Type:** REG_SZ  
-**Value:** REG ADD "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "Edgre" /t REG_SZ /F /D "cmd /C start C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf"  
+**Value:** "cmd /C start C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf"  
 
 **IP**  
 185.117[.]90[.]212  
