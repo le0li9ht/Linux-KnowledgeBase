@@ -1,7 +1,7 @@
 ### IOCs:  
 **Files:**  
 C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf  
-C:\Users\\<UserName>\AppData\Local\temp\noway.bat  
+`C:\Users\<UserName>\AppData\Local\temp\noway.bat`  
   
 **Hashes(SHA256):**  
 **BroaderAspect.dll:** 00e3cf6427e96ac85778219be3068c26748b0431e2024fde4911d613148f89f8  
