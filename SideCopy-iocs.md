@@ -1,4 +1,5 @@
-**IOCs:**  
+### IOCs:  
+**Files:**  
 C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf  
 C:\Users\\<UserName>\AppData\Local\temp\noway.bat  
   
